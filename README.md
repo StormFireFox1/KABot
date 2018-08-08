@@ -22,5 +22,5 @@ root@localhost:~$ git clone https://github.com/StormFireFox1/KABot.git
 
 4. Start the script
 ```bash
-root@localhost:~$ source .env & python main.py
+root@localhost:~$ source .env && python main.py
 ```
